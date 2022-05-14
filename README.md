@@ -1,3 +1,8 @@
+https://alina-gilmutdinova.github.io/Converter/
+
+# Вам необходимо разработать конвертер цветов из HEX в RGB.
+ # При правильном вводе цвета он показывает его представление в формате RGB и меняет цвет фона на заданный цвет
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
